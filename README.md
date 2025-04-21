@@ -1,6 +1,6 @@
 # Spring Boot DuckDB Application
 
-This is a basic Spring Boot application that uses DuckDB as the database with JDBC support.
+This is a test application for learning AI assited coding. 
 
 ## Project Structure
 
