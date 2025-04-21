@@ -3,7 +3,7 @@
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Build Commands
-- Build project: `./mvnw clean install`
+- Build project: `./mvnw clean package`
 - Run application: `./mvnw spring-boot:run`
 - Run all tests: `./mvnw test`
 - Run single test: `./mvnw test -Dtest=TestClassName#testMethodName`
